@@ -9,7 +9,6 @@ namespace MiniBlackJack
         private static int points;
         static void Main(string[] args)
         {
-
             Console.WriteLine("Welcome to mini-BlackJack.");
             Console.WriteLine("Easy rules, to win you need to collect from 18 to 21.");
             Console.WriteLine("If you want to start press 'Enter'.");
