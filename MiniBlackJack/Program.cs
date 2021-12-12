@@ -41,7 +41,7 @@ namespace MiniBlackJack
                         Console.WriteLine("Too much points, try another time.");
                         return;
                     }
-                    Console.WriteLine("One more, are you sure?");
+                    Console.WriteLine("One more, are you sure??");
                     string thirdAnswer = Console.ReadLine();
                     if (thirdAnswer == "y")
                     {
